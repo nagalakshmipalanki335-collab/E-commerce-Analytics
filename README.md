@@ -14,3 +14,5 @@ Total Payment Value
 Total Orders 
 Total Profit 
 Total Sale 
+## Screenshot
+https://github.com/nagalakshmipalanki335-collab/E-commerce-Analytics/blob/main/Screenshot%20(76).png
